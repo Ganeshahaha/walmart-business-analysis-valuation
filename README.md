@@ -68,18 +68,9 @@ Multiples used: **EV/EBITDA · EV/Revenue · P/E**
 - WACC build using Damodaran benchmarks (ERP, default spreads)
 - Data sources: Walmart 10-K, Earnings Releases, Management Call Transcripts, IMF WEO, World Bank, Statista, FRED
 
----
-
-## Files
-
-| File | Description |
-|---|---|
-| `Walmart_Report.pdf` | Full business analysis and valuation report |
-
----
 
 ## About
 
 Prepared by **Ganesh Goyal** — Financial Data Analyst with expertise in financial modeling, data analysis, and business intelligence across healthcare and financial services domains.
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-url) <!-- Replace with your actual LinkedIn URL -->
+[LinkedIn](https://www.linkedin.com/in/ganesh-goyal13/) <!-- Replace with your actual LinkedIn URL -->
